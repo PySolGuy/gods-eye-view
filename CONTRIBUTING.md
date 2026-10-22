@@ -9,8 +9,8 @@ Use Node.js 24.14.x or 26.x (also enforced by `package.json`).
 ```bash
 git clone https://github.com/bilawalsidhu/gods-eye-view.git
 cd gods-eye-view
-nvm install 24.14.0
-nvm use 24.14.0
+nvm install 24.22.1
+nvm use 24.22.1
 npm install
 npm run doctor
 ./scripts/dev-fresh.sh        # or: npm run dev (keys are optional)
