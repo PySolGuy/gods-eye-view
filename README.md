@@ -127,7 +127,7 @@ hardware; it does not establish a minimum GPU requirement.
 
 ### Path 2 — Terminal / coding agent
 
-Use **Node.js 24.x (24.14.0 or later) or 26.x**. The setup doctor warns about
+Use **Node.js 24.x (24.22.1 or later) or 26.x**. The setup doctor warns about
 Node 25, which is end-of-life.
 
 ```bash
